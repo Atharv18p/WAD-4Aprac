@@ -1,5 +1,5 @@
 # WAD-4Aprac
-access deployed site by clicking [here](https://github.com/Atharv18p/WAD-4Aprac.git)
+access deployed site by clicking [here](https://github.com/Atharv18p/WAD-4Aprac/)
 
 * use above given codes as input and attach your own outputs. (⚠️images in "img" folder are not outputs )
 
